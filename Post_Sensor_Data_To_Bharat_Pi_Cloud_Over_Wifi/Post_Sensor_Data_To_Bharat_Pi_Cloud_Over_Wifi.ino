@@ -1,12 +1,12 @@
 /*************************************************************************
 
-   PROJECT NAME: Bharat pi Post_Sensor_Data_To_Bharat_Pi_Cloud_Over_Wifi
-   AUTHOR: Bharat Pi
+   PROJECT NAME: Edgehax Post_Sensor_Data_To_ Edgehax_Cloud_Over_Wifi
+   AUTHOR:  Edgehax
    CREATED DATE: 17/11/2023
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT:  Edgehax @MIT license for usage on  Edgehax boards
    VERSION: 0.1.1
 
-   DESCRIPTION: This firmware syncs the data to Bharat Pi Cloud 
+   DESCRIPTION: This firmware syncs the data to  Edgehax Cloud 
    flow sensors and send to Bharat Pi Cloud backend.
 
    REVISION HISTORY TABLE:
@@ -39,7 +39,7 @@ int dataSyncCurrentMillis = 0;
 int dataSyncPreviousMillis = 0;
 int LED_WIFI = 2;
 String devID = "";
-// Bharat Pi Cloud Organization ID, Contact Bharatpi.net for this ID
+// Bharat Pi Cloud Organization ID, Contact https://edgehax.com for this ID
 String orgID = "ORG_ID";
 String sensorName = "FL1"; // Sensor Identification Name.
 String secID = "";
