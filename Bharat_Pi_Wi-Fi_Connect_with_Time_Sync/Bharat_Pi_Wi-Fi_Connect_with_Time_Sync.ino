@@ -1,11 +1,11 @@
 /*************************************************************************
-   PROJECT NAME: Bharat Pi Wi-Fi_Connect_with_Time_Sync
-   AUTHOR: Bharat Pi
+   PROJECT NAME:  Edgehax Wi-Fi_Connect_with_Time_Sync
+   AUTHOR: Edgehax
    CREATED DATE: 26/03/2024
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT:  Edgehax @MIT license for usage on Edgehax boards
    VERSION: 0.1.0
 
-   DESCRIPTION: Bharat Pi Wi-Fi_Connect_with_Time_Sync
+   DESCRIPTION:  Edgehax Wi-Fi_Connect_with_Time_Sync
 
    REVISION HISTORY TABLE:
    ------------------------------------------
