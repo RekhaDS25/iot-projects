@@ -1,8 +1,8 @@
 /*******************************************************************************
-  NAME: Bharat Pi NavIC GPS Tracker using SIMCOM 4G Module A7672S test firmware 
-  DESCRIPTION: NavIC get latlong and other navigation parameters using Bharat Pi NavIC 
+  NAME: Edgehax NavIC GPS Tracker using SIMCOM 4G Module A7672S test firmware 
+  DESCRIPTION: NavIC get latlong and other navigation parameters using Edgehax NavIC 
                tracker shield and push to cloud using SIMCOM A7672 4G Module.
-  AUTHOR: Bharat Pi
+  AUTHOR:Edgehax
   VERSION: 2.0.1
   CEATED: 25/03/2024
   
@@ -219,7 +219,7 @@ void setup(){
   Serial.println();
   Serial.println();
   Serial.println("/**********************************************************/");
-  Serial.println("  Bharat Pi 4G/LTE Board NavIC GPS Tracker Test Program");
+  Serial.println("  Edgehax 4G/LTE Board NavIC GPS Tracker Test Program");
   Serial.println("  To initialize the network test, please make sure the 4G and NavIC antenna are been");
   Serial.println("  connected and SIM card is inserted in the SIM slot (back side of the board).");
   Serial.println();
@@ -289,10 +289,10 @@ void setup(){
   delay(1000);
 
   String payload;
-  payloadObj["bharat_pi_4g_module_testing"] = modemName;
+  payloadObj["Edgehax_4g_module_testing"] = modemName;
   payloadObj["modemInfo"] = modemInfo;
   serializeJson(payloadObj, payload); //Convert data to json format
-  //payload="Bharat Pi 4G Module Testing";
+  //payload="Edgehax 4G Module Testing";
 
   // Unlock your SIM card with a PIN if needed (not applicable for regular sim testing)
   if ( 
@@ -461,11 +461,11 @@ void setup(){
     delay(2000);
 
     //Uncomment below code if you wish to send SMS to more than one number. 
-    // res = modem.sendSMS(SMS_TARGET2, String("Hello from Bharat Pi! Board is working."));
+    // res = modem.sendSMS(SMS_TARGET2, String("Hello from Edgehax! Board is working."));
     // DBG("SMS sent status:", res ? "SUCCESS" : "FAILED");
     // delay(2000);
 
-    // res = modem.sendSMS(SMS_TARGET3, String("Hello from Bharat Pi! Board is working."));
+    // res = modem.sendSMS(SMS_TARGET3, String("Hello from Edgehax! Board is working."));
     // DBG("SMS sent status:", res ? "SUCCESS" : "FAILED");
     // delay(2000);
   #endif
@@ -522,7 +522,7 @@ void loop(){
         delay(2000);
         //Send Lat long as SMS 
         #if TINY_GSM_TEST_SMS && defined TINY_GSM_MODEM_HAS_SMS && defined SMS_TARGET1 
-          bool resp = modem.sendSMS(SMS_TARGET1, "Bharat Pi NavIC GPS Tracker.\n\nLat:" + String(latitude, 7) + "\nLong:" + String(longitude, 7));
+          bool resp = modem.sendSMS(SMS_TARGET1, "Edgehax NavIC GPS Tracker.\n\nLat:" + String(latitude, 7) + "\nLong:" + String(longitude, 7));
           DBG("SMS sent status:", resp ? "SUCCESS" : "FAILED");
           delay(2000);
         #endif
