@@ -1,11 +1,11 @@
 /*************************************************************************
-   PROJECT NAME: Bharat Pi Node_WiFi_LED_Splash
-   AUTHOR: Bharat Pi
+   PROJECT NAME:  Edgehax Node_WiFi_LED_Splash
+   AUTHOR:  Edgehax
    CREATED DATE: 26/03/2024
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT:  Edgehax @MIT license for usage on  Edgehax boards
    VERSION: 0.1.0
 
-   DESCRIPTION: Bharat Pi Node_WiFi_LED_Splash.
+   DESCRIPTION:  Edgehax Node_WiFi_LED_Splash.
    
    REVISION HISTORY TABLE:
    ------------------------------------------
