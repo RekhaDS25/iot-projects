@@ -153,7 +153,7 @@ void setup(){
   Serial.println("  and you should see a \"OK\" response on serial monitor.");
   Serial.println();
   Serial.println("  Download latest AT command manual for SIMCOM A7672S from below link:");
-  Serial.println("  AT Manual: https://bharatpi.net/wp-content/uploads/2023/12/A7672S_Series_AT_Command_Manual_V1.09.pdf");
+  Serial.println("  AT Manual: https://edgehax.com/wp-content/uploads/2023/12/A7672S_Series_AT_Command_Manual_V1.09.pdf");
   Serial.println();
   Serial.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
   Serial.println();
