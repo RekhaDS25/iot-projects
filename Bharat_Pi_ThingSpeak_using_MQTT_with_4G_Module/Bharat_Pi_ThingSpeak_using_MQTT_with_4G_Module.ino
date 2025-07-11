@@ -1,6 +1,6 @@
 /*************************************************************************
-   PROJECT: Bharat Pi 4G Board Sample Code for data push to Thingspeak Cloud
-   AUTHOR: Bharat Pi
+   PROJECT:  Edgehax 4G Board Sample Code for data push to Thingspeak Cloud
+   AUTHOR: Edgehax
  
    FUNC: 4G testing with HTTP call to Thingspeak cloud server.
    
@@ -9,7 +9,7 @@
    
    IMPORTANT: Configure the APN accordingly as per your Sim provider
    
-   GPS: If you have bought Bharat Pi wtih GPS board then you need to connect 
+   GPS: If you have bought  Edgehax wtih GPS board then you need to connect 
         the GPS antenna to the UFL connector and antenna should have clear sky visibility
         preferrably on the terrace or open field.
 
@@ -21,7 +21,7 @@
    DESC: This script will connect using 4G sim and makes a http call 
    to a Thingspeak cloud server setup as per your Thingspeak API key.
  
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on  Edgehax boards
  *************************************************************************/
 
 #define TINY_GSM_MODEM_SIM7600 //TINY_GSM_MODEM compatible for 7672 as well
@@ -191,7 +191,7 @@ void setup(){
   Serial.println();
   Serial.println();
   Serial.println("/*******************************************************************************/");
-  Serial.println("  Bharat Pi Thingspeak Cloud Sync using MQTT over 4G/LTE ");
+  Serial.println("  Edgehax Thingspeak Cloud Sync using MQTT over 4G/LTE ");
   Serial.println("");
   Serial.println("  IMPORTANT: To initialize/latch the 4G/LTE network, please make sure the antenna has been");
   Serial.println("  connected, SIM is inserted in the SIM slot (back side of the board) and 9V 2A power adapter is connected.");
