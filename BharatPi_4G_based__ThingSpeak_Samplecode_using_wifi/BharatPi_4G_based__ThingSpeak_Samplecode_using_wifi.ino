@@ -1,11 +1,11 @@
 /*************************************************************************
-   PROJECT NAME: Bharat Pi ThingSpeak_Samplecode_using_wifi
-   AUTHOR: Bharat Pi
+   PROJECT NAME: Edgehax ThingSpeak_Samplecode_using_wifi
+   AUTHOR: Edgehax
    CREATED DATE: 06/05/2024
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on Edgehax boards
    VERSION: 0.1.0
 
-   DESCRIPTION: BharatPi_4G_based__ThingSpeak_Samplecode_using_wifi
+   DESCRIPTION: Edgehax_4G_based__ThingSpeak_Samplecode_using_wifi
 
    REVISION HISTORY TABLE:
    ------------------------------------------
