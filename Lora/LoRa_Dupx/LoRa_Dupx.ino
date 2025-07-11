@@ -1,8 +1,8 @@
 /*************************************************************************
-   PROJECT NAME: Bharat Pi LoRa Duplex communication
-   AUTHOR: Bharat Pi
+   PROJECT NAME:  Edgehax LoRa Duplex communication
+   AUTHOR:  Edgehax
    CREATED DATE: 06/01/2024
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on  Edgehax boards
    VERSION: 0.1.1
 
    DESCRIPTION: LoRa Duplex communication
