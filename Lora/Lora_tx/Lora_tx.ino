@@ -1,12 +1,12 @@
 /*************************************************************************
 
-   PROJECT NAME: Bharat Pi Lora_tx
-   AUTHOR: Bharat Pi
+   PROJECT NAME:  Edgehax Lora_tx
+   AUTHOR:  Edgehax
    CREATED DATE: 21/06/2023
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT:  Edgehax @MIT license for usage on  Edgehax boards
    VERSION: 0.1.0
 
-   DESCRIPTION: Bharat Pi Lora_tx
+   DESCRIPTION: Edgehax Lora_tx
 
    REVISION HISTORY TABLE:
    ------------------------------------------
@@ -31,7 +31,7 @@ void setup() {
   delay(1000);
   while (!Serial);
   Serial.println("--------------------------------");
-  Serial.println(" Bharat Pi LoRa Test Program");
+  Serial.println(" Edgehax LoRa Test Program");
   Serial.println(" Function: Transmitter");
   Serial.println("--------------------------------");
 
