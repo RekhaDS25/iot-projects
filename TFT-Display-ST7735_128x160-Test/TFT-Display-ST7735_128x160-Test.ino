@@ -1,8 +1,8 @@
 /*************************************************************************
-   PROJECT: Bharat Pi - TFT ST7735 Display test sample code
-   AUTHOR: Bharat Pi
+   PROJECT: Edgehax - TFT ST7735 Display test sample code
+   AUTHOR: Edgehax
    CREATED DATE: 28/11/2023
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on Edgehax boards
    VERSION: 0.1.0
    FUNCTION: This is a test of the rotation capabilities of the TFT library
    IMPORTANT: Please ensure the pic configurations below are matching with the display you have. 
@@ -10,13 +10,13 @@
    COPYRIGHT: This is a library for the Adafruit 1.8" SPI display.
     Written by Limor Fried/Ladyada for Adafruit Industries.
     MIT license, all text above must be included in any redistribution   
-    Code ported to Bharat Pi boards.
+    Code ported to Edgehax boards.
     
-   TODO: (Before you upload the code to Bharat Pi board) 
+   TODO: (Before you upload the code to Edgehax board) 
    1) Pin connections as defined in below code
-   2) Ensure the following pins from the TFT are connected to respective Bharat Pi Pins: 
+   2) Ensure the following pins from the TFT are connected to respective Edgehax Pins: 
    ----------------------------
-   TFT Pins     | Bharat Pi Pins
+   TFT Pins     | Edgehax Pins
    ----------------------------
       LED       | 3.3v, 
       SCK       | SCL 
@@ -45,7 +45,7 @@
 #include <Adafruit_ST7735.h>
 #include <SPI.h>
 //***********************************************************************************
-//define pins of TFT screen -> Bharat Pi
+//define pins of TFT screen -> Edgehax
 #define TFT_CS     12
 #define TFT_RST    14 
 #define TFT_DC     13
