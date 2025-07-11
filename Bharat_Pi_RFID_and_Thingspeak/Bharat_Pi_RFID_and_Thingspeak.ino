@@ -39,7 +39,7 @@ byte validUIDs[][4] = {
   // Add more valid UIDs here
 };
 const char* studentNames[] = {
-  "Bharatpi",  // Name of student 1
+  "Edgehax",  // Name of student 1
   "Welcome",   // Name of student 2
   // Add more student names here
 };
