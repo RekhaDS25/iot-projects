@@ -1,8 +1,8 @@
 /*************************************************************************
-   PROJECT NAME:  Bharat Pi NavIC Shield test firmware 
-   AUTHOR: Bharat Pi
+   PROJECT NAME:  Edgehax NavIC Shield test firmware 
+   AUTHOR:  Edgehax
    CREATED DATE: 26/03/2024
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT:  Edgehax @MIT license for usage on  Edgehax boards
    VERSION: 2.0
 
    DESCRIPTION: NavIC get latlong and other navigation parameters using Bharat Pi NavIC tracker shield.
@@ -38,7 +38,7 @@ void setup() {
     Serial.println();
     Serial.println();
     Serial.println("**********************************************************************************");
-    Serial.println("  Bharat Pi NavIC Shield Test Program\n  You can use the NavIC shield on any Bharat Pi boards.\n");
+    Serial.println("   Edgehax NavIC Shield Test Program\n  You can use the NavIC shield on any  Edgehax boards.\n");
     Serial.println("  Please wait while the NavIC module latches to satellites.\n");
     Serial.println("  You will notice the \"Red LED\" (PPS) on NavIC shield blinking once it latches.\n\n");
     Serial.println("  IMPORTANT: Ensure that the antenna has sky visibility and its not cloudy else it may not latch.");
