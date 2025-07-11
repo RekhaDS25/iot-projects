@@ -1,6 +1,6 @@
 /*************************************************************************
     PROJECT NAME:  Edgehax Lora_Rx
-   AUTHOR: Bharat Pi
+   AUTHOR: Edgehax
    CREATED DATE: 08/11/2023
    COPYRIGHT:  Edgehax @MIT license for usage on  Edgehax boards
    VERSION: 0.1.0
@@ -46,7 +46,7 @@ void setup() {
   // ranges from 0-0xFF
   LoRa.setSyncWord(0xF3);
   Serial.println("--------------------------------");
-  Serial.println(" Bharat Pi LoRa Test Program");
+  Serial.println("  Edgehax LoRa Test Program");
   Serial.println(" Function: Receiver");
   Serial.println("--------------------------------");
   Serial.println("LoRa Receiver");  
