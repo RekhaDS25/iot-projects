@@ -1,11 +1,11 @@
 /*************************************************************************
-   PROJECT NAME: Bharat Pi RFID_and_Thingspeak
-   AUTHOR: Bharat Pi
+   PROJECT NAME: Edgehax RFID_and_Thingspeak
+   AUTHOR:  Edgehax
    CREATED DATE: 15/05/2024
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT:  Edgehax @MIT license for usage on  Edgehax boards
    VERSION: 0.1.1
 
-   DESCRIPTION: Bharat Pi RFID_and_Thingspeak
+   DESCRIPTION:  Edgehax RFID_and_Thingspeak
     RFID Module pin connection
     SDA (SS)	-> GPIO21
     SCK	->  GPIO 18 
