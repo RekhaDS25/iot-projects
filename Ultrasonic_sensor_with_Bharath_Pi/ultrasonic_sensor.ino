@@ -1,8 +1,8 @@
 /*************************************************************************
-   PROJECT NAME:  Bharat Pi Ultrasonic sensor Sample Code
-   AUTHOR: Bharat Pi
+   PROJECT NAME:  Edgehax Ultrasonic sensor Sample Code
+   AUTHOR: Edgehax
    CREATED DATE: 02/08/2023
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on Edgehax boards
    VERSION: 0.1.1
 
    DESCRIPTION: This script will give you the sample testing of ultrasonic sensor,
