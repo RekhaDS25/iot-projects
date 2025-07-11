@@ -1,8 +1,8 @@
 /*************************************************************************
-   PROJECT: Bharat Pi 4G Board Sample Code
-   AUTHOR: Bharat Pi
+   PROJECT: Edgehax 4G Board Sample Code
+   AUTHOR: Edgehax
    CREATED DATE: 04/09/2023
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on Edgehax boards
    version: 0.1.0
  
    FUNC: 4G testing with HTTP call to a url and send SMS.
@@ -117,7 +117,7 @@ void setup(){
   Serial.println();
   Serial.println();
   Serial.println("/**********************************************************/");
-  Serial.println("  Bharat Pi 4G/LTE Board Test Program");
+  Serial.println("  Edgehax 4G/LTE Board Test Program");
   Serial.println("  To initialize the network test, please make sure the antenna has been");
   Serial.println("  connected and SIM card is inserted in the SIM slot (back side of the board).");
   Serial.println("/**********************************************************/\n\n");
@@ -185,7 +185,7 @@ void setup(){
   payloadObj["bharat_pi_4g_module_testing"] = modemName;
   payloadObj["modemInfo"] = modemInfo;
   serializeJson(payloadObj, payload); //Convert data to json format
-  //payload="Bharat Pi 4G Module Testing";
+  //payload="Edgehax 4G Module Testing";
 
   // Unlock your SIM card with a PIN if needed (not applicable for regular sim testing)
   if ( 
@@ -365,11 +365,11 @@ void setup(){
     delay(2000);
 
     //Uncomment below code if you wish to send SMS to more than one number. 
-    // res = modem.sendSMS(SMS_TARGET2, String("Hello from Bharat Pi! Board is working."));
+    // res = modem.sendSMS(SMS_TARGET2, String("Hello from Edgehax! Board is working."));
     // DBG("SMS sent status:", res ? "SUCCESS" : "FAILED");
     // delay(2000);
 
-    // res = modem.sendSMS(SMS_TARGET3, String("Hello from Bharat Pi! Board is working."));
+    // res = modem.sendSMS(SMS_TARGET3, String("Hello from Edgehax! Board is working."));
     // DBG("SMS sent status:", res ? "SUCCESS" : "FAILED");
     // delay(2000);
   #endif
@@ -381,7 +381,7 @@ void setup(){
   //    GPS/GNSS TESTING SAMPLE CODE.
   //    The below code run only if the 4G module supports GPS/GNSS
   //    so it is safe to ignore if you are testing only 4G modem
-  //    Bharat Pi 4G boards are available with and wihtout GPS. 
+  //    Edgehax 4G boards are available with and wihtout GPS. 
   //    Kindly check which one you have bought before testing GPS/GNSS code
   //******************************************************************************************
 
