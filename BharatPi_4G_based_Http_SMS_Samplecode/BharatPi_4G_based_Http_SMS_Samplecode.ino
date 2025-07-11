@@ -182,7 +182,7 @@ void setup(){
   delay(1000);
 
   String payload;
-  payloadObj["bharat_pi_4g_module_testing"] = modemName;
+  payloadObj["Edgehax_pi_4g_module_testing"] = modemName;
   payloadObj["modemInfo"] = modemInfo;
   serializeJson(payloadObj, payload); //Convert data to json format
   //payload="Edgehax 4G Module Testing";
