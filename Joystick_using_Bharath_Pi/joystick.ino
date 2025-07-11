@@ -1,11 +1,11 @@
 /*************************************************************************
-   PROJECT NAME: Bharat Pi joystick sample
+   PROJECT NAME: Edgehax joystick sample
    AUTHOR: Bharat Pi
    CREATED DATE: 02/08/2023
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT:  Edgehax @MIT license for usage on  Edgehax boards
    VERSION: 0.1.0
 
-   DESCRIPTION: joystick sample using Bharat Pi Board.
+   DESCRIPTION: joystick sample using Edgehax Board.
 
    REVISION HISTORY TABLE:
    ------------------------------------------
