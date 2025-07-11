@@ -1,11 +1,11 @@
 /*************************************************************************
-   PROJECT NAME: Bharat Pi Enable_OTA
+   PROJECT NAME:  Edgehax Enable_OTA
    AUTHOR: Bharat Pi
    CREATED DATE: 15/03/2024
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT:  Edgehax @MIT license for usage on  Edgehax boards
    VERSION: 0.1.0
 
-   DESCRIPTION: Enable_OTA using Bharat Pi Board.
+   DESCRIPTION: Enable_OTA using  Edgehax Board.
 
    REVISION HISTORY TABLE:
    ------------------------------------------
