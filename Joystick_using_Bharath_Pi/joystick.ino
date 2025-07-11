@@ -1,6 +1,6 @@
 /*************************************************************************
    PROJECT NAME: Edgehax joystick sample
-   AUTHOR: Bharat Pi
+   AUTHOR: Edgehax
    CREATED DATE: 02/08/2023
    COPYRIGHT:  Edgehax @MIT license for usage on  Edgehax boards
    VERSION: 0.1.0
