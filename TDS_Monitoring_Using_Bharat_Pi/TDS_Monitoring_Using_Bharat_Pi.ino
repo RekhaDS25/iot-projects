@@ -1,6 +1,6 @@
 /*************************************************************************
    PROJECT NAME: Edgehax TDS monitoring code
-   AUTHOR: Rdgehax
+   AUTHOR: Edgehax
    CREATED DATE: 17/11/2023
    COPYRIGHT: Edgehax @MIT license for usage on Edgehax boards
    VERSION: 0.1.1
