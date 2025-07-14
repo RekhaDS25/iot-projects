@@ -1,12 +1,12 @@
 /*************************************************************************
 
-   PROJECT NAME: Bharat Pi smart_blind_stick
-   AUTHOR: Bharat Pi
+   PROJECT NAME:Edgehax smart_blind_stick
+   AUTHOR: Edgehax
    CREATED DATE: 02/08/2023 
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on Bharat Pi boards
    VERSION: 0.1.1
 
-   DESCRIPTION: Bharat Pi smart_blind_stick
+   DESCRIPTION: Edgehax smart_blind_stick
 
    REVISION HISTORY TABLE:
    ------------------------------------------
