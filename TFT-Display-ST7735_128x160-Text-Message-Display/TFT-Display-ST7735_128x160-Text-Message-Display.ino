@@ -10,13 +10,13 @@
    COPYRIGHT: This is a library for the Adafruit 1.8" SPI display.
     Written by Limor Fried/Ladyada for Adafruit Industries.
     MIT license, all text above must be included in any redistribution   
-    Code ported to Bharat Pi boards.
+    Code ported to Edgehax boards.
     
    TODO: (Before you upload the code to Bharat Pi board) 
    1) Pin connections as defined in below code
    2) Ensure the following pins from the TFT are connected to respective Bharat Pi Pins: 
    ----------------------------
-   TFT Pins     | Bharat Pi Pins
+   TFT Pins     | Edgehax Pins
    ----------------------------
       LED       | 3.3v, 
       SCK       | SCL 
