@@ -1,8 +1,8 @@
 /*************************************************************************
-   PROJECT NAME: Bharat Pi ADXL345-Accelerometer-Track-Orientation
-   AUTHOR: Bharat Pi
+   PROJECT NAME: Edgehax ADXL345-Accelerometer-Track-Orientation
+   AUTHOR: Edgehax 
    CREATED DATE: 06/01/2024
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT:  Edgehax @MIT license for usage on  Edgehax  boards
    VERSION: 0.1.1
 
    DESCRIPTION:  Arduino and ADXL345 Accelerometer - 3D Visualization Example 
