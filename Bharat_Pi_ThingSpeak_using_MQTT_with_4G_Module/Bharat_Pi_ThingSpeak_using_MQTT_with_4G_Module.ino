@@ -9,7 +9,8 @@
    
    IMPORTANT: Configure the APN accordingly as per your Sim provider
    
-   GPS: If you have bought Bharat Pi wtih GPS board then you need to connect 
+   GPS: If you have bought Edgehax
+   wtih GPS board then you need to connect 
         the GPS antenna to the UFL connector and antenna should have clear sky visibility
         preferrably on the terrace or open field.
 
