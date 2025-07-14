@@ -1,8 +1,8 @@
 /*************************************************************************
-   PROJECT: Bharat Pi 4G BModule AT Command Test Program
-   AUTHOR: Bharat Pi
+   PROJECT:  Edgehax  4G BModule AT Command Test Program
+   AUTHOR: Edgehax 
    CREATED DATE: 10/07/2024
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax  @MIT license for usage on Bharat Pi boards
    version: 1.0
  
    DESCRIPTION: AT command testing from serial monitor. 4G module boots up and awaits for AT commands. 
@@ -91,7 +91,7 @@ void setup(){
   Serial.println();
   Serial.println();
   Serial.println("/**********************************************************/");
-  Serial.println("  Bharat Pi 4G/LTE Board AT Command Test Program");
+  Serial.println(" Edgehax  4G/LTE Board AT Command Test Program");
   Serial.println("  To power ON modem please ensure 9V-2A DC adapter is connected.");
   Serial.println("/**********************************************************/\n\n");
 
