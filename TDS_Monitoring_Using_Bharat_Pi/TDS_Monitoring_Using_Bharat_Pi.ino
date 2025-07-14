@@ -1,8 +1,8 @@
 /*************************************************************************
-   PROJECT NAME: Bharat Pi TDS monitoring code
-   AUTHOR: Bharat Pi
+   PROJECT NAME: Edgehax TDS monitoring code
+   AUTHOR: Rdgehax
    CREATED DATE: 17/11/2023
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on Edgehax boards
    VERSION: 0.1.1
 
    DESCRIPTION: Accurately Measure the TDS values and give it in PPM
