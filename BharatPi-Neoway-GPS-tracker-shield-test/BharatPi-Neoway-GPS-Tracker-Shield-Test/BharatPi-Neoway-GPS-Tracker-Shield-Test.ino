@@ -1,8 +1,8 @@
 /*************************************************************************
-   PROJECT NAME: Bharat Pi Neoway-GPS-Tracker-Shield-Test
-   AUTHOR: Bharat Pi
+   PROJECT NAME: Edgehax  Neoway-GPS-Tracker-Shield-Test
+   AUTHOR: Edgehax
    CREATED DATE: 06/01/2024
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on Edgehax boards
    VERSION: 0.1.1
 
    DESCRIPTION: Neoway-GPS-Tracker-Shield-Test
