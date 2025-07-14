@@ -1,8 +1,8 @@
 /*************************************************************************
    PROJECT NAME: Edgehax SD_Card_Test_Program
-   AUTHOR: Edgehax Pi
+   AUTHOR: Edgehax 
    CREATED DATE: 26/03/2024
-   COPYRIGHT: Edgehax @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on Edgehax boards
    VERSION: 0.1.0
 
    DESCRIPTION: Edgehax SD_Card_Test_Program
