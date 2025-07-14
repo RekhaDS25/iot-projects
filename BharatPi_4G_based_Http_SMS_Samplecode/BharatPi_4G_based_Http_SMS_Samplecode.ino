@@ -80,7 +80,7 @@ StaticJsonDocument<200> payloadObj; //for testing http request
 #define PIN_DTR     25
 #define PIN_TX      17
 #define PIN_RX      16
-#define PWR_PIN     32
+#define PWR_PIN     26
 
 #define LED_PIN 2
 
