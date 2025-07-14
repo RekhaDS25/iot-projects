@@ -118,7 +118,7 @@ void setup(){
   Serial.println();
   Serial.println();
   Serial.println("/**********************************************************/");
-  Serial.println("  Bharat Pi 4G/LTE Board Test Program");
+  Serial.println("   Edgehax  4G/LTE Board Test Program");
   Serial.println("  To initialize the network test, please make sure the antenna has been");
   Serial.println("  connected and SIM card is inserted in the SIM slot (back side of the board).");
   Serial.println("/**********************************************************/\n\n");
