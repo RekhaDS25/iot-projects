@@ -1,11 +1,11 @@
 /*************************************************************************
-    PROJECT NAME: Bharat Pi Lora_Rx
-   AUTHOR: Bharat Pi
+    PROJECT NAME: Edgehax Lora_Rx
+   AUTHOR: Edgehax
    CREATED DATE: 08/11/2023
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on Edgehax boards
    VERSION: 0.1.0
 
-   DESCRIPTION: Bharat Pi Lora_Rx
+   DESCRIPTION:Edgehax Lora_Rx
 
    REVISION HISTORY TABLE:
    ------------------------------------------
