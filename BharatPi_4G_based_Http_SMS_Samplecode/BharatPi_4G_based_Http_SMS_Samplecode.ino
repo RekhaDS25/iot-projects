@@ -26,6 +26,7 @@
    04/09/2023 -    0.1.0       -    Initial release of sample script.
    22/06/2024 -    0.1.1       -    TinyGSM lib updated to latest version,
                                     code changes to reflect new method names.
+   14/7/2025 -     0.12.0      -   Check and update  TinyGSM to the latest version.
  *************************************************************************/
 
 
