@@ -1,8 +1,8 @@
 /*************************************************************************
-   PROJECT: Bharat Pi 4G Board Sample Code for data push to Thingspeak Cloud
-   AUTHOR: Bharat Pi
+   PROJECT: Edgehax  4G Board Sample Code for data push to Thingspeak Cloud
+   AUTHOR: Edgehax 
    CREATED DATE: 06/05/2024
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT:  Edgehax  @MIT license for usage on  Edgehax  boards
    version: 0.1.0
  
    FUNC: 4G testing with HTTP call to Thingspeak cloud server.
@@ -12,7 +12,7 @@
    
    IMPORTANT: Configure the APN accordingly as per your Sim provider
    
-   GPS: If you have bought Bharat Pi wtih GPS board then you need to connect 
+   GPS: If you have bought  Edgehax wtih GPS board then you need to connect 
         the GPS antenna to the UFL connector and antenna should have clear sky visibility
         preferrably on the terrace or open field.
 
