@@ -1,8 +1,8 @@
 /*************************************************************************
-   PROJECT: Bharat Pi - TFT ST7735 Display test sample code
-   AUTHOR: Bharat Pi
+   PROJECT: Edgehax - TFT ST7735 Display test sample code
+   AUTHOR: Edgehax
    CREATED DATE: 28/11/2023
-   COPYRIGHT: BharatPi @MIT license for usage on Bharat Pi boards
+   COPYRIGHT: Edgehax @MIT license for usage on Bharat Pi boards
    VERSION: 0.1.0
    FUNCTION: This is a test code for displaying text content, display circles, lines, triange etc.
    IMPORTANT: Please ensure the pic configurations below are matching with the display you have. 
